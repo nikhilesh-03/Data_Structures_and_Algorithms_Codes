@@ -23,8 +23,4 @@ int main(){
     cin.tie(NULL);
     cout.tie(0);
     return 0;
-    int t,n;
-    while(t--){
-        cin>>n;
-    }
 }
